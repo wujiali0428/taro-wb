@@ -1,0 +1,54 @@
+
+.banner Image {
+    width: 100%;
+}
+.hint {
+   
+    border-radius: 4px;
+    padding-bottom: 100px;
+    margin-top: 10px;
+   
+  }
+  .warn {
+    display: block;
+    border-radius: 10px;
+    width: 90%;
+    margin: 0 auto;
+    background: #EFEFEF;
+    margin-bottom: 50px;
+    font-size: 22px;
+    color: #9C9EA8;
+    padding: 30px 18px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: left;
+  }
+
+  .call {
+    font-size: 22px;
+    color: #9C9EA8;
+    text-align: center;
+    position: relative;
+    bottom:  120px;
+    padding-bottom: 90px;
+    padding-top: 40px;
+  }
+  .tel {
+    color: #537EFF;
+  }
+  .search {
+    height: 100px;
+    width: 80%; 
+    background-image: linear-gradient(-151deg, #537EFF 0%, #105FF8 100%);
+    font-size: 35px;
+    border-radius: 50px;
+    position: fixed;
+    z-index: 100;
+    bottom: 60px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    line-height: 100px;
+    color: #fff;
+
+  }
